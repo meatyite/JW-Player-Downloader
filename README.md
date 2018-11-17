@@ -8,4 +8,5 @@ Requires ffmpeg!!!!
 3) Go to "network", and in the filter URL box type in "m3u8"
 4) Right click on the m3u8 item, go to Copy > Copy URL
 5) Paste it in the script
-6) You'll figure out the rest
+6) Type in a filename (including extension)
+7) Enjoy your video :^)
